@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdemo_01.a  CMakeFiles/demo_01.dir/library.c.o
+/usr/bin/ranlib libdemo_01.a
